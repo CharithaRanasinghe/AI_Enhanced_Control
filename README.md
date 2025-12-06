@@ -13,6 +13,8 @@ Traditional PID controllers are effective but often limited in speed and adaptab
 
 This approach illustrates **learning from demonstrations** in control systems, bridging classical techniques and modern AI.
 
+<img width="993" height="662" alt="image" src="https://github.com/user-attachments/assets/688b190b-eaf7-46be-8dba-fd1a326a8168" />
+
 ---
 
 ## Features
